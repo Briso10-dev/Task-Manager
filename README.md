@@ -10,42 +10,50 @@ A simple task management application built with React. This app allows users to 
 - Filter tasks by their completion status (active/completed)
 - Delete tasks from the list
 
-## Technologies Used
+## 🛠️ Tech Stack
 
-- React.js
-- JavaScript
-- CSS
+| Technology | Description |
+|------------|-------------|
+| React.js | For building the user interface |
+| JavaScript | To handle calculations and interactivity | 
+| HTML5 | Structure and semantic markup |
+| CSS | For styling |
 
 ## Getting Started
 
-1. Clone the repository to your local machine.
-    ```bash
-     git clone https://github.com/Briso10-dev/Task-Manager
-    ```
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/Briso10-dev/Task-Manager
+
 2. Navigate to the project directory:
-    ```bash
-    cd Task-manager
-    ```
+   ```bash
+   cd Eat-n-split
+
 3. Install the required dependencies:
     ```bash
     npm install
-    ```
+
 4. Start the development server:
     ```bash
     npm start
-    ```
 
 ## Project Structure
+    src/: Contains all the React components and logic.
+    public/: Contains the HTML file and any static assets.
 
-- **src/**: Contains all the React components.
-- **public/**: Contains the HTML file and any static assets.
+## 📸 Screenshots
 
-<!-- ![Task Manager Screenshot](path/to/your/image.png) -->
+![Desktop View](./public/screenshot-app.png)
 
-## Contributing
+## 🙏 Acknowledgments
 
-Feel free to fork the repository and submit pull requests. Any contributions to enhance functionality or improve the UI are welcome!
+- Thanks to all contributors who helped in building this project
+- Tailwind CSS community for the excellent documentation
 
-## License
+## 👥 Authors
 
-This project is open-source and available under the [MIT License](LICENSE).
+- [@Briso-dev](https://github.com/Briso10-dev) - Frontend Development
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).

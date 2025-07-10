@@ -20,11 +20,11 @@ A simple task management application built with React. This app allows users to 
 
 1. Clone the repository to your local machine.
     ```bash
-    <!-- git clone https://github.com/yourusername/simple-task-manager.git -->
+     git clone https://github.com/Briso10-dev/Task-Manager
     ```
 2. Navigate to the project directory:
     ```bash
-    cd simple-task-manager
+    cd Task-manager
     ```
 3. Install the required dependencies:
     ```bash
